@@ -22,7 +22,7 @@ This project has been completed in three different parts as given below:
 •	Standardizing data
 •	Checking multicollenearity
 
-(2)	 EDA (Extrapolatory Data Analysis): 
+(2)	 EDA (Exploratory Data Analysis): 
 •	Distribution of households with different visualizations
 •	Heat Map and other visualizations to see the correlations between variables.
 •	Checking Outliers with boxplots and scatter plots
